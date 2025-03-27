@@ -59,11 +59,11 @@ Start the Jupyter Notebook
 
 ## Screenshots
 
-![Autoencoder-training-class](https://postimg.cc/XBpGSk0b)
+[![Autoencoder-training-class](https://postimg.cc/XBpGSk0b)
 
-![MLP-Training-accuracy](https://postimg.cc/8jfJZ4Hd)
+[![MLP-Training-accuracy](https://postimg.cc/8jfJZ4Hd)
 
-![Original-and-predicted-values.png](https://postimg.cc/SnWXhKHJ)
+[![Original-and-predicted-values.png](https://postimg.cc/SnWXhKHJ)
 
 ## Authors
 
